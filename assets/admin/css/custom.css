@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ }
+.navbar-default .navbar-brand { color:#428bca; }
+.page-header { padding:5px; margin: 5px 0 0px; color:#428BCA; }
+.panel> panel-default { background:color:#999; }
+.row { margin-top:1px; margin-bottom:1px;}
+.sidebar { width:200px;  }
